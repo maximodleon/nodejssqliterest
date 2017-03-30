@@ -1,0 +1,21 @@
+{
+  "name": "nodejsrest",
+  "version": "1.0.0",
+  "description": "Simple nodejs rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "simple"
+  ],
+  "author": "maximodleon",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
